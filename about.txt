@@ -1,0 +1,4 @@
+Although this says its forked, this is just a version of it that the organization will be managing and will be updated instead of that repo.
+About: 
+
+THIS IS FOR USE ON COMPUTERS BY ENTERING THE BLOCKLY WEBSITES ON SPHERO EDU/OZOBOT BLOCKLY AND LOADING IT TO THE ROBOTS. Thank you for reading this quick blurb
